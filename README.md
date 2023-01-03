@@ -26,4 +26,4 @@ I visualized the results with the following animation which presents one seceond
 
 https://user-images.githubusercontent.com/84512701/210332136-ad9c6c00-cc4c-4d1c-8e45-ef80d068108f.mp4
 
-The resulst are as expected. For the lowest Reynolds number there is no backflow. In the case in which the Reynolds number was 20 a steady backflow appears. At the Reynolds number of 55, we can see unsteady shedding of the flow, and at 100 we can see a fully devolped Karman street.
+The resulst are as expected. For the lowest Reynolds number there is no backflow. In the case in which the Reynolds number was 20 a steady backflow appears. At the Reynolds number of 55, we can see unsteady shedding of the flow, and at 100 we can see a fully devoloped Karman street.
