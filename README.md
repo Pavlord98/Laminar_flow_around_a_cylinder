@@ -14,7 +14,7 @@ Because of the simplicity of the geometry, I constructed it and its mesh using j
 <p align="center">
   <img src="https://github.com/Pavlord98/OpenFOAM-simulations/blob/main/Flow%20past%20a%20circular%20cylinder/mesh_zones.png" alt="Flow past a circular cylinder at different Reynolds number"/>
 </p>
-The mesh density is greater in the zones close to the cylinder and in the zones where the trailing wake is expected to be. I also used simple grading to create finer meshing in the most important regions. The mesh has later on proven to be adequate in resolotion in the wake regions and has also achieved the adequate values of y<sup>+</sup> for the wall functions i used in the turbulent case.
+The mesh density is greater in the zones close to the cylinder and in the zones where the trailing wake is expected to be. I also used simple grading to create finer meshing in the most important regions.
 
 ### Model setup
 
